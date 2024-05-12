@@ -62,7 +62,7 @@ To run the project locally, follow these steps:
 
 ### Splash Screen
 
-<img src="Screenshots/splash_screen.jpg" alt="splash_screen" style="width: 50%; height: 30%;">
+<img src="Screenshots/splash_screen.jpg" alt="splash_screen" style="width: 50%; height: auto;">
 
 ### Signup Screen
 
