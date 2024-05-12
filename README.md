@@ -66,19 +66,19 @@ To run the project locally, follow these steps:
 
 ### Signup Screen
 
-![sign_up](Screenshots/sign_up.jpg)
+<img src="Screenshots/sign_up.jpg" alt="sign_up" style="width: 50%; height: auto;">
 
 ### Login Screen
 
-![login](Screenshots/login.jpg)
+<img src="Screenshots/login.jpg" alt="login" style="width: 50%; height: auto;">
 
 ### Home Screen
 
-![home](Screenshots/home.jpg)
+<img src="Screenshots/home.jpg" alt="home" style="width: 50%; height: auto;">
 
 ### Chat Room
 
-![chat_interface](Screenshots/chat_interface.jpg)
+<img src="Screenshots/chat_interface.jpg" alt="chat_interface" style="width: 50%; height: auto;">
 
 
 ## Technologies Used
