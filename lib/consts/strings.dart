@@ -1,0 +1,17 @@
+const appname = "Chat Application";
+const appversion = "Version 2024.1.0.0";
+const credits = "@Satyarth_Agrahari";
+const name = "Name";
+const nameHint = "Enter your name";
+const email = "Email";
+const emailHint = "Example@gmail.com";
+const password = "Password";
+const passwordHint = "***********";
+const forgetPass = "Forget Password";
+const login = "Log in";
+const other = "Or";
+const signup = "Sign up";
+const onStart = "Welcome";
+const signout = "Signout";
+const search = "Search";
+const messageHint = "Send Message";
